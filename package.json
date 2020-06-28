@@ -15,5 +15,11 @@
   "bugs": {
     "url": "https://github.com/Caleb-Omoijuanfo/library/issues"
   },
-  "homepage": "https://github.com/Caleb-Omoijuanfo/library#readme"
+  "homepage": "https://github.com/Caleb-Omoijuanfo/library#readme",
+  "dependencies": {
+    "chalk": "^4.1.0",
+    "debug": "^4.1.1",
+    "express": "^4.17.1",
+    "morgan": "^1.10.0"
+  }
 }
