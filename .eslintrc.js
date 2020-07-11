@@ -12,5 +12,7 @@ module.exports = {
   },
   rules: {
     'linebreak-style': 0,
+    'comma-dangle': 0,
+    'no-trailing-spaces': 0
   },
 };
